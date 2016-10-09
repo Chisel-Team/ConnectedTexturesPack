@@ -1,5 +1,5 @@
 {
-    "model": { "model": "cube" },
+    "model": { "model": "forestry:apiary_east_model" },
     "face": "forestry:apiary.cf",
     "overrides":{
         "UP":"forestry:apiary.1.cf",
