@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north":{
+            "model":"ctm:forestry:apiary.json"
+        },
+        "facing=east":{
+            "model":"ctm:forestry:apiary_east.json"
+        },
+        "facing=south":{
+            "model":"ctm:forestry:apiary_south.json"
+        },
+        "facing=west":{
+            "model":"ctm:forestry:apiary_west.json"
+        },
+        "inventory":{
+            "model":"ctm:forestry:apiary.json"
+        }
+    }
+}

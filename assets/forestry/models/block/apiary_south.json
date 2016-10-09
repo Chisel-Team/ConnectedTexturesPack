@@ -1,0 +1,11 @@
+{
+    "model": { "model": "cube" },
+    "face": "forestry:apiary.cf",
+    "overrides":{
+        "UP":"forestry:apiary.1.cf",
+        "NORTH":"forestry:apiary_side.cf",
+        "EAST":"forestry:apiary_side.cf",
+        "SOUTH":"forestry:apiary_side.cf",
+        "WEST":"forestry:apiary_side.cf"
+    }
+}

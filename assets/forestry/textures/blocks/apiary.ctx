@@ -1,0 +1,7 @@
+{
+	"type":"CTM",
+	"textures":[
+		"./apiary.0",
+		"./apiary_ctm"
+	]
+}
