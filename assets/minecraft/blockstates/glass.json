@@ -1,5 +1,10 @@
 {
-    "variants": {
-        "normal": { "model": "ctm:minecraft:glass.json" }
+    "variants":{
+        "normal":{
+            "model": "ctm:minecraft:glass.json"
+        },
+        "inventory":{
+            "model":"ctm:minecraft:glass.json"
+        }
     }
 }
