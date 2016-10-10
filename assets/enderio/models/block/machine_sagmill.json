@@ -1,0 +1,7 @@
+{
+    "model": { "model": "cube" },
+    "face": "enderio:machine.cf",
+    "overrides":{
+        "SOUTH":"enderio:machine_sagmill.cf"
+    }
+}
