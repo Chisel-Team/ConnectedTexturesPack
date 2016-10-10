@@ -1,0 +1,8 @@
+{
+    "model": { "model": "cube" },
+    "face": "ic2:machine.cf",
+    "overrides":{
+        "UP":"ic2:macerator_on_top.cf",
+        "NORTH":"ic2:macerator_side.cf"
+    }
+}

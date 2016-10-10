@@ -1,0 +1,7 @@
+{
+	"type":"CTM",
+	"textures":[
+		"./machine",
+		"./machine_ctm"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"type":"CTM",
+	"textures":[
+		"./macerator_off_top",
+		"./macerator_off_top_ctm"
+	]
+}
