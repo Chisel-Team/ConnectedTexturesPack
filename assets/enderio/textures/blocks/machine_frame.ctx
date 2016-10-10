@@ -1,0 +1,8 @@
+{
+    "type":"CTM",
+    "textures":[
+        "./machine_frame",
+        "./machine_frame_ctm"
+    ],
+    "layer":"CUTOUT",
+}
