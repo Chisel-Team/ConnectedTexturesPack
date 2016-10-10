@@ -1,0 +1,8 @@
+{
+	"type":"CTM",
+	"layer":"TRANSLUCENT",
+	"textures":[
+		"./glass_pink",
+		"./glass_pink_ctm"
+	]
+}

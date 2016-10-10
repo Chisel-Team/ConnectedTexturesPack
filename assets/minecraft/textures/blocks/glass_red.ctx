@@ -1,0 +1,8 @@
+{
+	"type":"CTM",
+	"layer":"TRANSLUCENT",
+	"textures":[
+		"./glass_red",
+		"./glass_red_ctm"
+	]
+}

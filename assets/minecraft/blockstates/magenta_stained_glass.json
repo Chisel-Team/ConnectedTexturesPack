@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "normal":{
+            "model": "ctm:minecraft:glass_magenta.json"
+        },
+        "inventory":{
+            "model":"ctm:minecraft:glass_magenta.json"
+        }
+    }
+}
