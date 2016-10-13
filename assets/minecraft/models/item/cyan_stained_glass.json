@@ -1,3 +1,4 @@
 {
-    "parent":"ctm:minecraft:block/glass_cyan.json"
+    "parent": "glass_cyan",
+    "ctm" : "parent"
 }

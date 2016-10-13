@@ -1,4 +1,11 @@
 {
-    "model": { "model": "cube" },
-    "face": "minecraft:glass_lime.cf"
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/glass_lime"
+    },
+    
+    "ctm" : {
+        "model": { "model": "cube" },
+        "face": "minecraft:glass_lime.cf"
+    }
 }

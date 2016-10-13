@@ -1,3 +1,4 @@
 {
-    "parent":"ctm:forestry:block/apiary.json"
+    "parent": "forestry:apiary",
+    "ctm" : "parent"
 }

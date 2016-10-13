@@ -1,0 +1,11 @@
+{
+    "parent": "block/beacon_model",
+    "textures": {
+        "glass": "blocks/glass"
+    },
+    
+    "ctm" : {
+        "model": { "model": "beacon_model", "glass": "minecraft:glass.cf" },
+        "face": "minecraft:glass.cf"
+    }
+}

@@ -1,11 +1,24 @@
 {
-    "model": { "model": "cube" },
-    "face": "forestry:apiary.cf",
-    "overrides":{
-        "UP":"forestry:apiary.1.cf",
-        "NORTH":"forestry:apiary_side.cf",
-        "EAST":"forestry:apiary_side.cf",
-        "SOUTH":"forestry:apiary_side.cf",
-        "WEST":"forestry:apiary_side.cf"
+    "parent": "block/cube",
+    "textures": {
+        "particle": "forestry:blocks/apiary.4",
+        "down": "forestry:blocks/apiary.0",
+        "up": "forestry:blocks/apiary.1",
+        "north": "forestry:blocks/apiary.2",
+        "east": "forestry:blocks/apiary.4",
+        "south": "forestry:blocks/apiary.4",
+        "west": "forestry:blocks/apiary.4"
+    },
+
+    "ctm":{
+        "model": { "model": "cube" },
+        "face": "forestry:apiary.cf",
+        "overrides":{
+            "UP":"forestry:apiary.1.cf",
+            "NORTH":"forestry:apiary_side.cf",
+            "EAST":"forestry:apiary_side.cf",
+            "SOUTH":"forestry:apiary_side.cf",
+            "WEST":"forestry:apiary_side.cf"
+        }
     }
 }

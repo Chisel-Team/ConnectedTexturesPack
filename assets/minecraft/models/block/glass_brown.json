@@ -1,4 +1,11 @@
 {
-    "model": { "model": "cube" },
-    "face": "minecraft:glass_brown.cf"
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/glass_brown"
+    },
+    
+    "ctm" : {
+        "model": { "model": "cube" },
+        "face": "minecraft:glass_brown.cf"
+    }
 }
