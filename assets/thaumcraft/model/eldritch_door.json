@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "thaumcraft:blocks/eldritch_door",
+        "up": "thaumcraft:blocks/eldritch_door",
+    },
+    "ctm" : {
+        "model": { "model": "cube" },
+        "face": "thaumcraft:eldritch_door.cf"
+    }
+}
