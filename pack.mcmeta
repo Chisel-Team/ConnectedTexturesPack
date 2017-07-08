@@ -1,6 +1,6 @@
 {
-    "pack":{
-    "pack_format":2,
-    "description":"CTM Resource Pack"
-    }
+  "pack": {
+    "pack_format": 2,
+    "description": "Adds CTM to Vanilla Blocks plus some Modded Blocks!"
+  }
 }

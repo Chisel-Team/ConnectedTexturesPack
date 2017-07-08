@@ -1,0 +1,9 @@
+{
+    "parent": "block/rail_raised_glow_ne",
+    "textures": {
+        "rail": "blocks/rail_golden_powered",
+        "rail_glow": "blocks/rail_golden_glow",
+        "rail_glow_faint": "blocks/rail_glow_faint",
+        "rail_glow_faint_2": "blocks/rail_gold"
+    }
+}

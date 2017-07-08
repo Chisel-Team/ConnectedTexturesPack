@@ -1,0 +1,9 @@
+{
+    "parent": "block/util_cube_glow_3_all",
+    "textures": {
+        "particle": "soulshardstow:blocks/cage_2",
+        "all": "soulshardstow:blocks/cage_2",
+        "glow_1": "soulshardstow:blocks/face",
+        "glow_2": "soulshardstow:blocks/skull"
+    }
+}

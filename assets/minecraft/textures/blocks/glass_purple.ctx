@@ -1,8 +1,0 @@
-{
-	"type":"CTM",
-	"layer":"TRANSLUCENT",
-	"textures":[
-		"./glass_purple",
-		"./glass_purple_ctm"
-	]
-}

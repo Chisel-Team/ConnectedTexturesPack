@@ -1,0 +1,7 @@
+{
+    "parent": "block/util_cube_glow_2_all",
+    "textures": {
+        "all": "enderio:blocks/energetic/body",
+        "glow": "enderio:blocks/energetic/frame"
+    }
+}

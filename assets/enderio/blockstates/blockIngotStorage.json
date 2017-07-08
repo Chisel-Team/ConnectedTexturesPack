@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=electricalsteel": { "model": "enderio:block_electricalsteel" },
+        "variant=energeticalloy":  { "model": "enderio:block_energeticalloy" },
+        "variant=vibrantalloy":    { "model": "enderio:block_vibrantalloy" },
+        "variant=redstonealloy":   { "model": "enderio:block_redstonealloy" },
+        "variant=conductiveiron":  { "model": "enderio:block_conductiveiron" },
+        "variant=pulsatingiron":   { "model": "enderio:block_pulsatingiron" },
+        "variant=darksteel":       { "model": "enderio:block_darksteel" },
+        "variant=soularium":       { "model": "enderio:block_soularium" }
+    }
+}

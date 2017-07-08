@@ -1,4 +1,4 @@
 {
-    "parent": "beacon",
-    "ctm" : "parent"
+    "parent": "block/beacon",
+    "ctm_version": 1
 }

@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": { },
+    "model": "soulshardstow:cage_glow"
+  },
+  "variants": {
+    "active": {
+      "true": {
+      },
+      "false": {
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "textures": {
+        "particle": "blocks/brewing_stand",
+        "stand": "blocks/brewing_stand",
+        "glow_stand": "blocks/brew_glow_tube",
+        "glow_bottle": "blocks/brew_glow_bottle"
+    },
+    "elements": [
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#stand" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#stand" }
+            }
+        },
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "shade": false,
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#glow_stand" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#glow_stand" }
+            }
+        },
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "shade": false,
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#glow_bottle" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#glow_bottle" }
+            }
+        }
+    ]
+}
