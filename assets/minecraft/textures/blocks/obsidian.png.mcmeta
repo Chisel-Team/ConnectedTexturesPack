@@ -1,0 +1,14 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "EDGES_FULL",
+        "textures": [
+            "blocks/obsidian_portal"
+        ],
+        "extra": {
+            "connect_to": [
+                { "block": "portal" }
+            ]
+        }
+    }
+}
