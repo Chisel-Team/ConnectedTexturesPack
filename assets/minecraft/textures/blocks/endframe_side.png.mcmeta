@@ -1,5 +1,4 @@
 {
-    "__comment": "We will have a ctm_version to indicate the version that the json is built for. We will most likely not need it, but who knows? -D ",
     "ctm":{
         "ctm_version": 1,
         "type":"CTM",
@@ -7,7 +6,7 @@
             "minecraft:blocks/endframe_side_ct"
         ],
         "extra":{
-        	"ignoreStates":"true"
+        	"ignore_states":"true"
         }
     }
 }

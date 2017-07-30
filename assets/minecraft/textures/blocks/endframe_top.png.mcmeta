@@ -7,7 +7,7 @@
             "minecraft:blocks/endframe_top_ct"
         ],
         "extra":{
-        	"ignoreStates":"true"
+        	"ignore_states":"true"
         }
     }
 }
