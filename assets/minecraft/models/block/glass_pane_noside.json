@@ -1,0 +1,7 @@
+{
+    "parent": "block/ctm_pane_noside",
+    "textures": {
+        "cap": "blocks/glass_pane_top",
+        "side": "blocks/glass"
+    }
+}
